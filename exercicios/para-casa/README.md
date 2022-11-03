@@ -2,12 +2,9 @@
 
 ## Banco de Dados
 
-- Rota GET: Crie um rota que encontre um livro pelo titulo
-- Rota de Patch: Crie um rota que atualize as informações de um determinado livro utilizando de parâmetro o ID
-- Rota de Delete: Crie um rota que delete um livro cadastrado pelo ID
-- Rota GET:Crie um rota que encontre uma editora pelo estado da sede
-- Rota de POST: Crie um rota que crie uma nova editora
-- Rota de PATCH: Crie um rota que atualize as informações de um editora utilizando de parâmetro o ID 
+Banco de Dados é como se fosse uma grande biblioteca e pelo que eu entendi ela é dividida basicamente em 2 partes. 
+#SQL - Que são as informações que estão diretamente relacionadas, elas precisam uma das outras pra se desenvolver, funcionar. 
+#No SQL -  É o contrário, uma biblioteca com informações relacionadas, mas elas não necessariamente precisam estar diretamente interligadas para funcionar.
 
 ---
 
